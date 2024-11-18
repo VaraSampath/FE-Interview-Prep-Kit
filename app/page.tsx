@@ -7,6 +7,10 @@ export default function Home() {
         implement Debounce
         <Link href={"/implement-debounce"}>Link</Link>
       </div>
+      <div className="flex gap-5 items-center">
+        implement Throttling
+        <Link href={"/implement-throttling"}>Link</Link>
+      </div>
     </div>
   );
 }
