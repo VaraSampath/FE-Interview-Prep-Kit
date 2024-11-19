@@ -11,6 +11,10 @@ export default function Home() {
         implement Throttling
         <Link href={"/implement-throttling"}>Link</Link>
       </div>
+      <div className="flex gap-5 items-center">
+        Polyfills
+        <Link href={"/polyfills"}>Link</Link>
+      </div>
     </div>
   );
 }
